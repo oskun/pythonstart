@@ -4,3 +4,4 @@ def fib(n):
         print(a, b, end=' ')
         a, b = b, a + b
     print()
+    
