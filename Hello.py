@@ -8,9 +8,10 @@ for index in range(len):
 for index in indexs:
     del brands[index]
 
-
 # 判断在列表中
 # test git
 # 判断表达式
 # --
 print(brands)
+t1 = ()
+print(type(t1))
